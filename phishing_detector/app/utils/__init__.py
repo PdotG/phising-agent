@@ -1,0 +1,1 @@
+"""Utilidades comunes usadas por múltiples componentes de la aplicación.""" 

@@ -1,0 +1,15 @@
+Asunto: ¡Última oportunidad para verificar tu cuenta!
+
+Estimado cliente,
+
+Hemos detectado actividad sospechosa en tu cuenta bancaria. Para proteger tus fondos, por favor verifica inmediatamente tus datos haciendo clic en el siguiente enlace seguro:
+
+http://banco-seguro.validacion-es.com/login
+
+Si no completas la verificación en las próximas 24 h, tu cuenta será suspendida temporalmente.
+
+Atentamente,
+Equipo de Seguridad Bancaria
+
+---
+Nota: Este correo es confidencial y está dirigido únicamente al destinatario. 
